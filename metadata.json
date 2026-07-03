@@ -3,5 +3,6 @@
   "description": "A strategic guide for parents to navigate child support, modify orders, manage arrears, and avoid legal pitfalls.",
   "requestFramePermissions": [
     "microphone"
-  ]
+  ],
+  "majorCapabilities": []
 }
